@@ -1,0 +1,12 @@
+{
+    "root_dir": ".",
+    "commands": {
+        "pre": [],
+        "structure": [],
+        "all": []
+    },
+    "delay_seconds": 0.005,
+    "exit_on_error": false,
+    "clear_screen": true,
+    "use_gitignore": true
+}
